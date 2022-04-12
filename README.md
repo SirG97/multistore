@@ -1,0 +1,2 @@
+# multistore
+multistore inventory management
